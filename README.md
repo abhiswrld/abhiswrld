@@ -1,5 +1,5 @@
 # Abhinav Khanna
-linkedin.com/in/abhinav-khanna06 [linkedin.com/in/abhinav-khanna06](https://linkedin.com/in/abhinav-khanna06)
+linkedin.com/in/abhinav-khanna06](https://linkedin.com/in/abhinav-khanna06)
 
 CS student at Rutgers, transferring to UC San Diego in Fall 2026.
 
