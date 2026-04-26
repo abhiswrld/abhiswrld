@@ -1,16 +1,13 @@
-## Hi there 👋
+# Abhinav Khanna
+linkedin.com/in/abhinav-khanna06
 
-<!--
-**abhiswrld/abhiswrld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at Rutgers, transferring to UC San Diego in Fall 2026.
 
-Here are some ideas to get you started:
+I build things that solve real problems — lately that's meant a native
+macOS battery manager in Swift, a typing trainer in vanilla JS, and an
+ML-based music recommender.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stanford Code in Place Section Leader. CS Club VP at Rutgers.
+Open to SWE internships for Summer 2026.
+
+Cupertino, CA
