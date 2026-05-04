@@ -1,7 +1,7 @@
 # Abhinav Khanna
 [linkedin.com/in/abhinav-khanna06](https://linkedin.com/in/abhinav-khanna06)
 
-CS student at Rutgers, transferring to UC San Diego in Fall 2026.
+Computer Science @ UC San Diego.
 
 I build things that solve real problems — lately that's meant a native
 macOS battery manager in Swift, a typing trainer in vanilla JS, and an
