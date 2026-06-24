@@ -1,13 +1,24 @@
-# Abhinav Khanna
-[linkedin.com/in/abhinav-khanna06](https://linkedin.com/in/abhinav-khanna06)
+# Hi there, I'm Abhinav Khanna
 
-Computer Science @ UC San Diego.
+[LinkedIn](https://linkedin.com/in/abhinav-khanna06) | Cupertino, CA
 
-I build things that solve real problems — lately that's meant a native
-macOS battery manager in Swift, a typing trainer in vanilla JS, and an
-ML-based music recommender.
+**Computer Science @ UC San Diego**
 
-Stanford Code in Place Section Leader. CS Club VP at Rutgers.
-Open to SWE internships for Summer 2027.
+I build things that solve real problems. I'm a developer passionate about software engineering, predictive modeling, and creating seamless user experiences. 
 
-Cupertino, CA
+### Featured Projects
+*   **Glide:** A native macOS menu bar application for Apple Silicon battery management built in Swift.
+*   **SoundMatch:** An ML-based music recommendation engine leveraging the Last.fm and Spotify APIs alongside a K-Nearest Neighbors model.
+*   **CrunchTime:** A full-stack student productivity web application designed to generate prioritized study schedules.
+
+### Technical Skills
+*   **Languages:** Python, Java, Swift, C, C#, JavaScript, HTML/CSS
+*   **Frameworks & Tools:** Node.js, Express.js, MongoDB, Scikit-learn, Flask, Unity Xcode, Git
+*   **Certifications:** DeepLearning.AI Supervised Machine Learning
+
+### Leadership & Experience
+*   **Former Section Leader & Mentor** @ Stanford Code in Place
+*   **Former Vice President**, Computer Science Club @ Rutgers University
+*   **Former Learning Assistant** (Physics) @ Rutgers University
+
+**Actively seeking Software Engineering (SWE) Internships for Summer 2027.**
