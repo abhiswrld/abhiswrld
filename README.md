@@ -5,7 +5,6 @@
 I build things that solve real problems. I'm a developer passionate about software engineering, predictive modeling, and creating seamless user experiences. 
 
 ### Featured Projects
-*   **Glide:** A native macOS menu bar application for Apple Silicon battery management built in Swift.
 *   **SoundMatch:** An ML-based music recommendation engine leveraging the Last.fm and Spotify APIs alongside a K-Nearest Neighbors model.
 *   **CrunchTime:** A full-stack student productivity web application designed to generate prioritized study schedules.
 
@@ -19,4 +18,4 @@ I build things that solve real problems. I'm a developer passionate about softwa
 *   **Former Vice President**, Computer Science Club @ Rutgers University
 *   **Former Learning Assistant** (Physics) @ Rutgers University
 
-**Actively seeking Software Engineering (SWE) Internships for Summer 2027.**
+**Actively seeking internships for Summer 2027.**
