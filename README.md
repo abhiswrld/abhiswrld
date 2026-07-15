@@ -1,7 +1,5 @@
 # Hi there, I'm Abhinav Khanna
 
-[LinkedIn](https://linkedin.com/in/abhinav-khanna06) | Cupertino, CA
-
 **Computer Science @ UC San Diego**
 
 I build things that solve real problems. I'm a developer passionate about software engineering, predictive modeling, and creating seamless user experiences. 
