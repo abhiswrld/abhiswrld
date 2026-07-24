@@ -18,5 +18,3 @@ I build things that solve real problems. I'm a developer passionate about softwa
 *   **Former Section Leader & Mentor** @ Stanford Code in Place
 *   **Former Vice President**, Computer Science Club @ Rutgers University
 *   **Former Learning Assistant** (Physics) @ Rutgers University
-
-**Actively seeking internships for Summer 2027.**
