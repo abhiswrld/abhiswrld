@@ -1,4 +1,4 @@
-# Hi there, I'm Abhinav Khanna
+# Hi there, I'm [Abhinav Khanna](https://akhannaa.netlify.app)
 
 **Computer Science @ UC San Diego**
 
