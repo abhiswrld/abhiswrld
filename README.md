@@ -6,6 +6,7 @@ I build things that solve real problems. I'm a developer passionate about softwa
 
 ### Featured Projects
 *   **AutoValuate** A machine learning-powered predictive modeling application that utilizes regression algorithms to analyze live market data and estimate vehicle valuations.
+*   **CogniRoute** — A multi-agent semantic routing system with persistent memory, exposed via MCP for educational AI workflows.
 *   **SoundMatch:** An ML-based music recommendation engine leveraging the Last.fm and Spotify APIs alongside a K-Nearest Neighbors model.
 *   **CrunchTime:** A full-stack student productivity web application designed to generate prioritized study schedules.
 *   **SpaceSync:** A real-time collaborative web application built with React and Supabase to help roommates seamlessly manage shared living spaces, track supplies, and coordinate chores.
